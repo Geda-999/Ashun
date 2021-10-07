@@ -1,0 +1,9 @@
+CMD以管理员身份依次输入：
+
+slmgr.vbs /upk
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+slmgr /skms kms.loli.best
+
+slmgr /ato
